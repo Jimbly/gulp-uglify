@@ -2,6 +2,8 @@
 
 > Minify JavaScript with UglifyJS3.
 
+With fix by Jimbly to prevent corruption of Sourcemaps
+
 ## Installation
 
 Install package with NPM and add it to your development dependencies:
