@@ -1,7 +1,7 @@
 {
   "name": "@jimbly/gulp-uglify",
   "description": "Minify files with UglifyJS.",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "dependencies": {
     "array-each": "^1.0.1",
     "extend-shallow": "^3.0.2",
@@ -11,7 +11,7 @@
     "make-error-cause": "^1.1.1",
     "safe-buffer": "^5.1.2",
     "through2": "^2.0.0",
-    "@jimbly/uglify-js": "0.0.1"
+    "uglify-js": "^3.12.5"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
